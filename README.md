@@ -2,6 +2,10 @@ Sales and Profitability Analysis
 
 The project focuses on identifying areas of loss and analyzing sales trends in a retail chain.
 
+## Prerequisites
+To open and interact with the analytical report, you need to have:
+**Microsoft Power BI Desktop** (available for free from the Microsoft Store).
+
 1. Power BI Report (Visualization)
 An interactive dashboard that provides insight into the company's financial health.
 
